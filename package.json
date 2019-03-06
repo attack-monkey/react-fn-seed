@@ -1,11 +1,11 @@
 {
   "name": "react-fn-seed",
-  "version": "1.0.0",
-  "description": "A Seed Project for React-Fn",
+  "version": "2.0.0",
+  "description": "A Seed Project for React-Fn v2",
   "main": "index.ts",
   "scripts": {
     "test": "test",
-    "start": "parcel index.html"
+    "start": "parcel src/index.html"
   },
   "repository": {
     "type": "git",
@@ -24,11 +24,7 @@
   },
   "homepage": "https://github.com/attack-monkey/react-fn-seed#readme",
   "dependencies": {
-    "@types/react": "^16.8.4",
     "react": "^16.8.3",
-    "react-fn": "^1.0.3"
-  },
-  "devDependencies": {
-    "typescript": "^3.3.3333"
+    "react-fn": "^2.0.0"
   }
 }
