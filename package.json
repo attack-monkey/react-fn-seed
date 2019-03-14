@@ -1,6 +1,6 @@
 {
   "name": "react-fn-seed",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "A Seed Project for React-Fn v2",
   "main": "index.ts",
   "scripts": {
@@ -25,6 +25,6 @@
   "homepage": "https://github.com/attack-monkey/react-fn-seed#readme",
   "dependencies": {
     "react": "^16.8.3",
-    "react-fn": "^2.0.0"
+    "react-fn": "^2.2.0"
   }
 }
